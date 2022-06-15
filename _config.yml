@@ -1,17 +1,17 @@
 # site settings
 title: Mohamed Rafik Mammeri
 subtitle: Personnal Page
-email: mohamed.mohamed@gmail.com
+email: rafik.medmammeri@gmail.com
 description: Web page under construction <br /> ....
-baseurl: "/" # the subpath of your site, e.g. /blog
+# baseurl: "/medmammeri" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author: Mohamed Rafik Mammeri
-street_address: 
+# street_address: 
 city: Paris
-state:
-zip_code: 75000
+# state:
+# zip_code: 75000
 country: France
-phone: +33 7 50 30 47 19
+# phone: +33 7 50 30 47 19
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"

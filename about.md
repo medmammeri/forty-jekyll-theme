@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-image: assets/images/IMG_9100.jpeg
+image: assets/images/about.jpg
 nav-menu: true
 ---
 
